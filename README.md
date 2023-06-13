@@ -1,0 +1,4 @@
+# Word Dictionary
+
+JAVA
+JAVAFX
